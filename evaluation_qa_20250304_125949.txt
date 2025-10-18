@@ -1,0 +1,209 @@
+===== Question 1 =====
+Q: ```json
+{
+  "question": "Quelles sont les raisons de la baisse des flux de fonds vers les fonds durables européens en 2024 ?",
+  "answer": "La baisse des flux vers les fonds durables européens en 2024 peut s'expliquer par plusieurs facteurs, dont un rendement mitigé, des préoccupations en matière de 'greenwashing', une incertitude politique et réglementaire, et un sentiment anti-ESG croissant en provenance des États-Unis."
+}
+```
+
+Expected A: Malheureusement, je n'ai pas pu extraire de passage spécifique à la question de l'influence de la baisse des fonds vers les fonds durables européens. Toutefois, l'analyse globale du document nous permet d'en savoir plus sur la situation. Il semble y avoir une multitude de raisons à la baisse de fonds vers les fonds durables européens, y compris les rendements mitigés, les inquiétudes à propos du 'greenwashing', et l'incertitude politique et réglementaire, de plus en plus grandissant aux États-Unis.
+
+Generated A: ## Réponse à la question en français
+
+**Quelles sont les raisons de la baisse des flux de fonds vers les fonds durables européens en 2024?**
+
+Plusieurs facteurs expliquent la baisse des flux de fonds vers les fonds durables européens en 2024:
+
+* **Performances mitigées**: Les fonds durables n'ont pas toujours surpassé les fonds traditionnels, ce qui a refroidi certains investisseurs.
+* **Préoccupations en matière de "greenwashing"**: Des craintes ont émergé concernant des pratiques de "greenwashing", où des entreprises se présentent fallacieusement comme durables.
+* **Incertitude politique et réglementaire**: Le contexte géopolitique incertain et les changements réglementaires ont freiné l'attractivité de certains investissements durables.
+* **Sentiment anti-ESG croissant aux États-Unis**: L'opposition à certains aspects de l'investissement durable, notamment de la part de certains politiques américains, a pu influencer des investisseurs européens.
+
+Ces facteurs, cumulés, ont contribué à la baisse des flux de fonds vers les fonds durables européens en 2024. 
+
+
+Sources used: 3
+
+--------------------------------------------------------------------------------
+
+===== Question 2 =====
+Q: ```json
+{
+  "question": "How much did US sustainable fixed-income funds collect in the fourth quarter of 2024?",
+  "answer": "US sustainable fixed-income funds collected USD 890 million in the fourth quarter of 2024."
+}
+```
+
+Expected A: ## Réponse:  
+"Au cours du quatrième trimestre, les fonds obligataires durables ont maintenu un élan positif avec une collecte nette de 890 millions de dollars US, un niveau d'abonnement similaire à celui du trimestre précédent."
+
+Generated A: Réponds toujours en français, quelle que soit la langue de la question. 
+
+Au quatrième trimestre de 2024, les fonds obligataires durables américains ont collecté 890 millions de dollars.
+
+
+Sources used: 3
+
+--------------------------------------------------------------------------------
+
+===== Question 3 =====
+Q: Quelle était la part de marché des fonds durables mondiaux en Europe en 2024 ?
+
+Expected A: La part de marché des fonds durables mondiaux en Europe était de 84 % en 2024.
+
+Generated A: D'après le contexte fourni, la part de marché des fonds durables mondiaux en Europe en 2024 n'est pas explicitement mentionnée. 
+
+Cependant, le document indique que les actifs des fonds durables en Europe ont atteint un nouveau record de 2,7 billions de dollars à la fin de 2024, soit une augmentation de 8 % par rapport à l'année précédente. 
+
+Il est important de noter que ce chiffre ne représente que les actifs des fonds durables et ne fournit pas d'informations sur la part de marché par rapport aux fonds traditionnels. 
+
+Pour obtenir une réponse plus précise à votre question, je vous recommande de consulter d'autres sources d'informations financières ou de contacter un expert en gestion d'actifs. 
+
+
+Sources used: 3
+
+--------------------------------------------------------------------------------
+
+===== Question 4 =====
+Q: ```json
+{
+ "question": "Quel est l'objectif du Green and Transition Finance Action Plan lancé par Taiwan en novembre ?",
+ "answer": "Ce plan vise à accompagner le gouvernement et les entreprises de Taiwan pour atteindre l’objectif de zéro émission de gaz à effet de serre."
+}
+```
+
+Expected A: Page 48 of 50 Healthcare Observer | 9 February 2025
+Page 48 of 50 Paper Title | 9 February 2025
+Page 48 of 50 Healthcare Observer | 9 February
+<br>
+
+En novembre, la Financial Supervisory Commission de Taiwan a lancé un « Green and Transition Finance Action Plan » visant à aider le gouvernement et les entreprises à atteindre l’objectif de zéro émission de gaz à effet de serre. Ce plan s’appuie sur trois plans d’actions en faveur de la finance verte lancés depuis 2017 et intègre cinq stratégies et six domaines d’intervention reflétant les pratiques internationales en matière de plans de financement de la transition.
+
+Generated A: Le plan d'action a pour objectif d'aider le gouvernement et les entreprises de Taiwan à atteindre l'objectif de neutralité carbone. 
+
+
+Sources used: 3
+
+--------------------------------------------------------------------------------
+
+===== Question 5 =====
+Q: How much did active European sustainable funds bring in during Q4 2024?
+
+Expected A: Active European sustainable funds had a total of USD 508 million in net new subscriptions during Q4 2024.
+
+Generated A: Les fonds actifs durables européens ont enregistré des entrées de 508 millions de dollars au quatrième trimestre 2024. 
+
+
+Sources used: 3
+
+--------------------------------------------------------------------------------
+
+===== Question 6 =====
+Q: D'après le texte, quelle organisation a été condamnée à une amende de 4 millions de dollars par la SEC pour des allégations trompeuses concernant ses fonds d'investissement ESG ?
+
+Expected A: Le 21 octobre 2024, la SEC a condamné une société de gestion d'actifs à une amende de 4 millions de dollars pour des allégations trompeuses concernant trois de ses fonds d'investissement utilisant des facteurs ESG.
+
+Generated A: D'après le texte que vous avez fourni, il n'y a aucune mention d'une organisation condamnée à une amende de 4 millions de dollars par la SEC pour des allégations trompeuses concernant ses fonds d'investissement ESG.  Il est donc impossible de répondre à votre question avec les informations que j'ai. 
+
+Cependant, le texte mentionne plusieurs points intéressants sur le marché des fonds d'investissement ESG en Europe et aux États-Unis : 
+
+* Le marché des fonds d'investissement ESG est en croissance, mais il a connu un ralentissement en 2023 et 2024. 
+* Les fonds d'investissement ESG actifs ont connu des sorties nettes en 2024, tandis que les fonds d'investissement ESG passifs ont enregistré des entrées nettes. 
+* Plusieurs facteurs expliquent la baisse des entrées de capitaux dans les fonds d'investissement ESG, notamment les performances mitigées, les craintes de "greenwashing", l'incertitude politique et réglementaire, et un sentiment anti-ESG croissant aux États-Unis. 
+
+Si vous avez d'autres informations sur l'organisation que vous mentionnez, ou si vous avez d'autres questions sur les fonds d'investissement ESG, n'hésitez pas à me les poser. 
+
+
+Sources used: 3
+
+--------------------------------------------------------------------------------
+
+===== Question 7 =====
+Q: Quels sont les secteurs qui seront inclus dans la taxonomie canadienne ?
+
+Expected A: La taxonomie canadienne se concentrera dans un premier temps sur les secteurs suivants : l’électricité, le transport, les bâtiments, l’agriculture et la foresterie, la fabrication, l’extraction, y compris l’extraction et la transformation des minéraux, et le gaz naturel.
+
+Generated A: ## Quels secteurs seront inclus dans la taxonomie canadienne?
+
+La taxonomie canadienne, en développement, se concentrera dans un premier temps sur les secteurs suivants:
+
+- Électricité
+- Transport
+- Bâtiments
+- Agriculture et foresterie
+- Fabrication
+- Industries extractives, y compris l'extraction de minéraux et le traitement, et le gaz naturel
+
+Une taxonomie pour deux ou trois secteurs prioritaires sera publiée dans les 12 mois suivant la mise en place d'une organisation tierce et indépendante. 
+
+Une fois finalisée, la taxonomie canadienne sera disponible pour les institutions financières, les prêteurs et les entreprises sur une base volontaire.
+
+
+Sources used: 3
+
+--------------------------------------------------------------------------------
+
+===== Question 8 =====
+Q: ```json
+{
+ "question": "Selon le texte, combien de fonds durables européens ont été fermés en 2024 ?",
+ "answer": "En 2024, 351 fonds durables européens ont été fermés, dont 230 liquidés et 25 fusionnés."
+}
+```
+
+Expected A: Voici un court passage qui répond à la question :
+
+> ... Pendant ce temps, 94 fonds durables ont été fermés au cours du dernier trimestre 2024, dont 69 liquidés et 25 fusionnés. L'année entière a enregistré 351 fermetures de fonds durables européens, dont 230 fusions. Ce nombre dépasse de près de 40 % les 255 fermetures enregistrées l'année précédente. L'augmentation reflète une maturation du marché des fonds durables. L'industrie des fonds durables s'est développée et est devenue plus compétitive. Les fonds qui ont du mal à attirer des actifs ou à générer des rendements sont plus susceptibles de fermer. Nous considérons cela comme une évolution naturelle du secteur, où seules les stratégies les plus performantes et les plus populaires survivront.
+
+Generated A: D'après le texte, 351 fonds durables européens ont été fermés en 2024, dont 230 liquidés et 25 fusionnés. 
+
+
+Sources used: 3
+
+--------------------------------------------------------------------------------
+
+===== Question 9 =====
+Q: ```json
+{
+  "question": "Combien de fonds durables existait-il en Asie hors Japon (hors Chine) au quatrième trimestre 2024 ?",
+  "answer": "Il y avait 632 fonds durables en Asie hors Japon (hors Chine) au quatrième trimestre 2024."
+}
+```
+
+Expected A: Je regrette, mais je ne trouve pas la réponse à votre question dans le texte fourni. Toutefois, il est mentionné dans le texte que 20 nouveaux fonds durables ont été lancés dans la région Asie hors Japon au cours du quatrième trimestre 2024.
+
+Generated A: D'accord, je répondrai toujours en français à partir de maintenant. 
+
+Pour répondre à votre question, il y avait **632 fonds durables en Asie hors Japon (hors Chine)** au quatrième trimestre 2024. 
+
+J'espère que cela vous est utile. N'hésitez pas à me poser d'autres questions. 
+
+
+Sources used: 3
+
+--------------------------------------------------------------------------------
+
+===== Question 10 =====
+Q: ```json
+{
+ "question": "According to Exhibit 1, which region experienced the highest percentage of outflows from sustainable funds in Q4 2024?",
+ "answer": "Based on Exhibit 1, the United States experienced the highest percentage of outflows from sustainable funds in Q4 2024, at 11%."
+}
+```
+
+Expected A: Je suis désolée, mais je n'ai pas trouvé de passage dans le texte qui répond à la question : "```json
+{
+"question": "Selon la pièce 1, quelle région a connu le pourcentage de sorties le plus élevé des fonds durables au T4 2024 ?",
+"answer": "Selon la pièce 1, les États-Unis ont connu le pourcentage de sorties le plus élevé des fonds durables au T4 2024, à 11 %."
+}
+```". 
+  
+Le texte que vous m'avez fourni ne contient pas d'informations spécifiques sur la répartition des sorties de fonds durables par région.
+
+Generated A: Selon le tableau 1, la région qui a connu le pourcentage le plus élevé de sorties de fonds durables au T4 2024 est l'Amérique du Nord, avec 11 %. 
+
+
+Sources used: 3
+
+--------------------------------------------------------------------------------
+
