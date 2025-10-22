@@ -18,16 +18,16 @@ This project was developed in collaboration by: **Hiba Kabeda**
 
 ## 📋 Table of Contents
 
-1. [Features](#-features)
+1. [Features](#features)
 2. [Architecture](#architecture)
-3. [Prerequisites](#-prerequisites)
-4. [Installation](#-installation)
-5. [Project Structure](#-project-structure)
-6. [Usage](#-usage)
-7. [API Endpoints](#-api-endpoints)
-8. [Evaluation & Metrics](#-evaluation--metrics)
-9. [Configuration](#-configuration)
-10. [Screenshots](#-screenshots)
+3. [Prerequisites](#prerequisites)
+4. [Installation](#installation)
+5. [Project Structure](#project-structure)
+6. [Usage](#usage)
+7. [API Endpoints](#api-endpoints)
+8. [Evaluation & Metrics](#evaluation--metrics)
+9. [Configuration](#configuration)
+10. [Screenshots](#screenshots)
 
 ## ✨ Features
 
