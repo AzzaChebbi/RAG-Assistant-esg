@@ -13,14 +13,13 @@ AI-powered ESG assistant using RAG (Retrieval Augmented Generation) with Gemini,
 
 ## 👥 Team
 
-This project was developed in collaboration by:
-- **Hiba Kabeda** - 
+This project was developed in collaboration by: **Hiba Kabeda**  
 
 
 ## 📋 Table of Contents
 
 1. [Features](#-features)
-2. [Architecture](#-architecture)
+2. [Architecture](#architecture)
 3. [Prerequisites](#-prerequisites)
 4. [Installation](#-installation)
 5. [Project Structure](#-project-structure)
@@ -29,8 +28,6 @@ This project was developed in collaboration by:
 8. [Evaluation & Metrics](#-evaluation--metrics)
 9. [Configuration](#-configuration)
 10. [Screenshots](#-screenshots)
-11. [Contributing](#-contributing)
-12. [License](#-license)
 
 ## ✨ Features
 
