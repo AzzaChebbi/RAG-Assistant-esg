@@ -7,16 +7,16 @@ AI-powered ESG assistant using RAG (Retrieval Augmented Generation) with Gemini,
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.104+-green.svg)](https://fastapi.tiangolo.com/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.28+-red.svg)](https://streamlit.io/)
 
-## 🚀 Live Demo
+## Live Demo
 
 **Try the application:** [https://ac-hk-projet-streamlit-1021317796643.europe-west1.run.app](https://ac-hk-projet-streamlit-1021317796643.europe-west1.run.app)
 
-## 👥 Team
+## Team
 
 This project was developed in collaboration by: **Hiba Kabeda**  
 
 
-## 📋 Table of Contents
+## Table of Contents
 
 1. [Features](#features)
 2. [Architecture](#architecture)
@@ -28,19 +28,20 @@ This project was developed in collaboration by: **Hiba Kabeda**
 8. [Evaluation & Metrics](#evaluation--metrics)
 9. [Configuration](#configuration)
 10. [Screenshots](#screenshots)
+11. [Development](#development)
 
-## ✨ Features
+## Features
 
-- 🤖 **RAG-based Chatbot**: Query ESG documents with context-aware responses
-- 🖼️ **Image Analysis**: Analyze ESG infographics and sustainability reports using Gemini Vision
-- 🌍 **Multilingual Support**: English, French, and Arabic interfaces
-- 📊 **Feedback System**: Collect user feedback with interactive dashboard
-- 🔍 **Semantic Search**: FAISS vector store for efficient document retrieval
-- 📈 **Similarity Scores**: Visual representation of document relevance
-- 🔄 **Real-time Vector Store Refresh**: Update knowledge base on-the-fly
-- 🎯 **Source Attribution**: Track and display source documents for answers
+- **RAG-based Chatbot**: Query ESG documents with context-aware responses
+- **Image Analysis**: Analyze ESG infographics and sustainability reports using Gemini Vision
+- **Multilingual Support**: English, French, and Arabic interfaces
+- **Feedback System**: Collect user feedback with interactive dashboard
+- **Semantic Search**: FAISS vector store for efficient document retrieval
+- **Similarity Scores**: Visual representation of document relevance
+- **Real-time Vector Store Refresh**: Update knowledge base on-the-fly
+- **Source Attribution**: Track and display source documents for answers
 
-## 🏗️ Architecture
+## Architecture
 
 ```
 ┌─────────────────┐
@@ -67,7 +68,7 @@ This project was developed in collaboration by: **Hiba Kabeda**
 └───────────┘  └─────────┘  └──────────┘
 ```
 
-## 🔧 Prerequisites
+## Prerequisites
 
 - Python 3.9+
 - Google Cloud account with:
@@ -76,7 +77,7 @@ This project was developed in collaboration by: **Hiba Kabeda**
 - Gemini API key
 - Virtual environment tool (venv or virtualenv)
 
-## 📦 Installation
+## Installation
 
 ### 1. Clone the Repository
 
@@ -141,7 +142,7 @@ gcloud auth login
 gcloud auth application-default login
 ```
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 esg-rag-assistant/
@@ -159,7 +160,7 @@ esg-rag-assistant/
 └── README.md                   # This file
 ```
 
-## 🚀 Usage
+## Usage
 
 ### Running the Application Locally
 
@@ -208,7 +209,7 @@ The application will open in your browser at `http://localhost:8501`
 - See rating distributions
 - Analyze user sentiment
 
-## 🔌 API Endpoints
+## API Endpoints
 
 ### System Endpoints
 
@@ -252,7 +253,7 @@ The application will open in your browser at `http://localhost:8501`
   }
   ```
 
-## 📊 Evaluation & Metrics
+## Evaluation & Metrics
 
 Run the evaluation script to test chatbot performance:
 
@@ -268,7 +269,7 @@ Metrics calculated:
 
 Results are saved to `evaluation_results.json`
 
-## ⚙️ Configuration
+## Configuration
 
 ### Vector Store Configuration
 
@@ -293,7 +294,7 @@ Feedback is stored in `feedback.csv` with columns:
 - Rating
 - Comments
 
-## 📸 Screenshots
+## Screenshots
 
 ### Chat Interface
 ![ESG Chat Interface](https://github.com/user-attachments/assets/5244df60-cf9c-43da-8f8e-3f12ec726ea6)
@@ -304,7 +305,7 @@ Feedback is stored in `feedback.csv` with columns:
 ### Feedback Dashboard
 ![ESG Feedback Dashboard](https://github.com/user-attachments/assets/f5ca17f8-d92e-46f4-b676-2375ec3c03ae)
 
-## 🛠️ Development
+## Development
 
 ### Code Quality
 
